@@ -49,6 +49,10 @@ body {
   color: #fca311;
   font-family: "Syne Mono", monospace;
 }
+
+.profile-img {
+  width: auto;
+  
 .scroll-btn {
   bottom: 30px;
   position: absolute;
