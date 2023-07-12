@@ -435,6 +435,8 @@ body {
 
   .profile-img {
     width: 10px;
+    border-radius: 50px !important;
+  }
 
   .scroll-btn {
     bottom: 30px;
